@@ -1,0 +1,1 @@
+An implementation of the Naive Bayes' classifier in python

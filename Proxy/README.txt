@@ -1,0 +1,1 @@
+This is a proxy that can handle http 1.0 requests without multimedia, written in C.

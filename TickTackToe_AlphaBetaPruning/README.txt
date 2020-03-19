@@ -1,0 +1,1 @@
+This is a ticktacktoe AI I wrote using alpha-beta pruning and the jamboree algorithm. It solves the game completely (ie. never loses)
